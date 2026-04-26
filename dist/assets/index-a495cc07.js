@@ -3559,7 +3559,7 @@ No matching component was found for:
           max-w-7xl mx-auto flex flex-row items-start
           justify-between gap-3`,children:[ce.jsxs("div",{className:"flex flex-col justify-center items-center mt-5 ml-3",children:[ce.jsx("div",{className:"w-5 h-5 rounded-full bg-[#0a0a0a] sm:hidden"}),ce.jsx("div",{className:"w-1 sm:h-80 h-40 bw-gradient sm:hidden"})]}),ce.jsxs("div",{children:[ce.jsxs("h1",{className:`${Wi.heroHeadText} text-eerieBlack font-poppins uppercase`,children:["Hi, I'm"," ",ce.jsx("span",{className:`sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
-                font-extrabold uppercase`,children:"Anushka Isuru"})]}),ce.jsxs("p",{className:`${Wi.heroSubText} mt-2 text-eerieBlack`,children:["Full Stack Developer. ",ce.jsx("br",{className:"sm:block hidden"})]})]}),ce.jsx("div",{className:`w-screen flex flex-col items-start 
+                font-extrabold uppercase`,children:"Anushka Isuru"})]}),ce.jsxs("p",{className:`${Wi.heroSubText} mt-2 text-eerieBlack`,children:["Software Engineer. ",ce.jsx("br",{className:"sm:block hidden"})]})]}),ce.jsx("div",{className:`w-screen flex flex-col items-start 
             justify-center sm:-ml-[3rem] xxs:mt-4`}),ce.jsx("div",{})]}),ce.jsx("div",{className:`absolute xs:bottom-10 bottom-32 w-full 
           flex justify-center items-center`,children:ce.jsx("a",{href:"#about",children:ce.jsx("div",{className:`w-[35px] h-[64px] rounded-3xl border-4 
             border-french border-dim flex
